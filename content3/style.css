@@ -1,0 +1,37 @@
+	.divone{
+		border: 1px solid;
+		height: 350px;
+		width: 350px;
+		border-radius:300px;
+		background-color:red;
+	}
+
+
+	.divtwo{
+		border: 1px solid;
+		height: 350px;
+		width: 350px;
+		border-radius:300px;
+
+		background-color:white;
+	}
+
+
+	.divthree{
+		border: 1px solid;
+		height: 350px;
+				border-radius:300px;
+
+		width: 350px;
+		background-color:green;
+	}
+
+
+	.divfour{
+		border: 1px solid;
+		height: 350px;
+		width: 350px;
+				border-radius:300px;
+
+		background-color:yellow;
+	}
